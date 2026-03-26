@@ -1,4 +1,4 @@
-🤖 RAG Algorithms Examiner
+🤖 RAG Algorithms Examiner - הסבר כללי
 RAG Algorithms Examiner הוא בוט לימודי אינטליגנטי המבוסס על סוכני AI, שנועד לסייע לסטודנטים לשלוט בחומר הקורס "אלגוריתמים". המערכת משתמשת בטכנולוגיית RAG (Retrieval-Augmented Generation) ובספריית LangGraph לניהול לוגיקה מורכבת של למידה מותאמת אישית.
 
 🌟 פיצ'רים מרכזיים
@@ -43,3 +43,13 @@ LangGraph Orchestrator: ניהול ה-Workflow באמצעות Conditional Edges 
 
 קבלו ניתוח תוצאות מבוסס AI והנחיות להמשך למידה.
 
+## 🗺️ תוכנית עבודה ושלבים
+
+| # | שם | תלות |
+|---|---|---|
+| 1 | תשתית וסביבה | — |
+| 2 | Vector DB ו-RAG | Milestone 1 |
+| 3 | צמתי הגרף | Milestone 2 |
+| 4 | חיבור הגרף המלא | Milestone 3 |
+| 5 | ממשק משתמש | Milestone 4 |
+| 6 | בדיקות ו-Deployment | כל השאר |
